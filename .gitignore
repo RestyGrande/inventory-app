@@ -1,0 +1,27 @@
+server-app/node_modules
+server-app/.env
+
+#front-end side
+inventory-app/.DS_Store
+inventory-app/node_modules
+inventory-app//dist
+
+
+# local env files
+inventory-app/.env.local
+inventory-app/.env.*.local
+
+# Log files
+inventory-app/npm-debug.log*
+inventory-app/yarn-debug.log*
+inventory-app/yarn-error.log*
+inventory-app/pnpm-debug.log*
+
+# Editor directories and files
+inventory-app/.idea
+inventory-app/.vscode
+inventory-app/*.suo
+inventory-app/*.ntvs*
+inventory-app/*.njsproj
+inventory-app/*.sln
+inventory-app/*.sw?
